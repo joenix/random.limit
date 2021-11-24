@@ -1,11 +1,11 @@
 /**
- * unique
+ * random
  * @param min { number }
  * @param max { number }
  * @return { string }
  * ========== ========== ==========
  */
-function unique(min = 0, max = 1) {
+function random(min = 0, max = 1) {
   // Set Numeric of Random
   let numeric = Math.random();
 
@@ -19,4 +19,4 @@ function unique(min = 0, max = 1) {
 }
 
 // Export
-export default unique;
+export default random;

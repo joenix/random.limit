@@ -1,15 +1,15 @@
-# unique.js
+# random.limit
 
 > The simplest random generated digital function
 
 ```sh
-yarn add unique.js
+yarn add random.limit
 # or
-npm i unique.js
+npm i random.limit
 ```
 
 ```js
-import unique from 'unique.js';
+import random from 'random.limit';
 
-unique(200, 500);
+random(200, 500);
 ```

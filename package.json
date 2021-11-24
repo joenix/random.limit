@@ -1,7 +1,14 @@
 {
-  "name": "unique.js",
+  "name": "random.limit",
   "version": "1.0.0",
   "main": "index.js",
+  "private": false,
+  "keywords": [
+    "random",
+    "limit",
+    "min",
+    "max"
+  ],
   "author": "joenix <joenix.com@gmail.com>",
   "license": "MIT"
 }
